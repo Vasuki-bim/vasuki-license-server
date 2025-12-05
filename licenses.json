@@ -1,0 +1,12 @@
+[
+  {
+    "key": "SNS-1111-AAAA",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+  {
+    "key": "SNS-2222-BBBB",
+    "expiry": "2026-07-01",
+    "machine": null
+  }
+]
