@@ -8,5 +8,11 @@
     "key": "SNS-2222-BBBB",
     "expiry": "2026-07-01",
     "machine": null
+  },
+  {
+    "key": "VSKY-0001-PRO",
+    "expiry": "2027-01-01",
+    "machine": null
   }
 ]
+
