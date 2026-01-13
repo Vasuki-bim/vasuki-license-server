@@ -9,26 +9,6 @@
     "expiry": "2026-02-01",
     "machine": null
   },
-  {
-    "key": "VSKY-0001-PRO",
-    "expiry": "2026-03-01",
-    "machine": null
-  },
-    {
-    "key": "VSKY-2026-DW01",
-    "expiry": "2026-03-01",
-    "machine": null
-  },  
-  {
-    "key": "VSKY-2026-RY01",
-    "expiry": "2026-03-01",
-    "machine": null
-  },
-    {
-    "key": "VSKY-2026-BNR01",
-    "expiry": "2026-03-01",
-    "machine": null
-  },
     {
     "key": "VSKY-2026-CVD01",
     "expiry": "2026-03-01",
@@ -105,6 +85,7 @@
     "machine": null
   }
 ]
+
 
 
 
