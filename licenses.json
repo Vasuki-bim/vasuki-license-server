@@ -61,7 +61,7 @@
   },
     {
     "key": "VSKY-2026-SNS01",
-    "expiry": "2026-03-01",
+    "expiry": "2026-02-01",
     "machine": null
   },
     {
@@ -85,4 +85,5 @@
     "machine": null
   }
 ]
+
 
