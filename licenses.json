@@ -1,90 +1,161 @@
 [
   {
     "key": "SNS-1111-AAAA",
+    "expiry": "2030-12-31",
+    "machine": null
+  },
+  {
+    "key": "VSKY-1111-SNS01",
+    "expiry": "2030-12-31",
+    "machine": null
+  },
+    {
+    "key": "VSKY-2026-CVDSD",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+    {
+    "key": "VSKY-2026-CVDBNR",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+    {
+    "key": "VSKY-2026-CVDRY",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+    {
+    "key": "VSKY-2026-CVDKVK",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+    {
+    "key": "VSKY-2026-CVDAR",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+    {
+    "key": "VSKY-2026-CVDSA",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+    {
+    "key": "VSKY-2026-CVDSY",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+    {
+    "key": "VSKY-2026-CVDNK",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+    {
+    "key": "VSKY-2026-CVDMJ",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+    {
+    "key": "VSKY-2026-CVDKB",
     "expiry": "2026-12-31",
     "machine": null
   },
   {
-    "key": "VSKY-1111-MJ01",
-    "expiry": "2026-02-01",
+    "key": "VSKY-2026-CVDMC",
+    "expiry": "2026-12-31",
     "machine": null
   },
-    {
-    "key": "VSKY-2026-CVD01",
-    "expiry": "2026-03-01",
+  {
+    "key": "VSKY-2026-CVDPKM",
+    "expiry": "2026-12-31",
     "machine": null
   },
-    {
-    "key": "VSKY-2026-CVD02",
-    "expiry": "2026-03-01",
+  {
+    "key": "VSKY-2026-CVDPK",
+    "expiry": "2026-12-31",
     "machine": null
   },
-    {
-    "key": "VSKY-2026-CVD03",
-    "expiry": "2026-03-01",
+  {
+    "key": "VSKY-2026-CVDPS",
+    "expiry": "2026-12-31",
     "machine": null
   },
-    {
-    "key": "VSKY-2026-CVD04",
-    "expiry": "2026-03-01",
+  {
+    "key": "VSKY-2026-CVDSNS",
+    "expiry": "2026-12-31",
     "machine": null
   },
-    {
-    "key": "VSKY-2026-CVD05",
-    "expiry": "2026-03-01",
+  {
+    "key": "VSKY-2026-CVDSC",
+    "expiry": "2026-12-31",
     "machine": null
   },
-    {
-    "key": "VSKY-2026-CVD06",
-    "expiry": "2026-03-01",
+  {
+    "key": "VSKY-2026-CVDSP",
+    "expiry": "2026-12-31",
     "machine": null
   },
-    {
-    "key": "VSKY-2026-CVD07",
-    "expiry": "2026-03-01",
+  {
+    "key": "VSKY-2026-CVDSM",
+    "expiry": "2026-12-31",
     "machine": null
   },
-    {
-    "key": "VSKY-2026-CVD08",
-    "expiry": "2026-03-01",
+  {
+    "key": "VSKY-2026-CVDSU",
+    "expiry": "2026-12-31",
     "machine": null
   },
-    {
-    "key": "VSKY-2026-CVD09",
-    "expiry": "2026-03-01",
+  {
+    "key": "VSKY-2026-CVDMT",
+    "expiry": "2026-12-31",
     "machine": null
   },
-    {
-    "key": "VSKY-2026-CVD10",
-    "expiry": "2026-03-01",
+  {
+    "key": "VSKY-2026-CVDAS",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+  {
+    "key": "VSKY-2026-CVDKR",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+  {
+    "key": "VSKY-2026-CVDVK",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+  {
+    "key": "VSKY-2026-CVDDN",
+    "expiry": "2026-12-31",
     "machine": null
   },
     {
     "key": "VSKY-2026-SNS01",
-    "expiry": "2026-06-01",
+    "expiry": "2026-12-31",
     "machine": null
   },
     {
     "key": "VSKY-2026-SNS02",
-    "expiry": "2026-03-01",
+    "expiry": "2026-12-31",
     "machine": null
   },
     {
     "key": "VSKY-2026-SNS03",
-    "expiry": "2026-02-01",
+    "expiry": "2026-12-31",
     "machine": null
   },
     {
     "key": "VSKY-2026-SNS04",
-    "expiry": "2026-03-01",
+    "expiry": "2026-12-31",
     "machine": null
   },
     {
     "key": "VSKY-2026-SNS05",
-    "expiry": "2026-03-01",
+    "expiry": "2026-12-31",
     "machine": null
   }
 ]
+
 
 
 
