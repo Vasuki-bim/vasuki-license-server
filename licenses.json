@@ -129,6 +129,26 @@
     "expiry": "2026-12-31",
     "machine": null
   },
+  {
+    "key": "VSKY-2026-CVDSK",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+  {
+    "key": "VSKY-2026-CVDLR",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+  {
+    "key": "VSKY-2026-CVDNB",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+  {
+    "key": "VSKY-2026-CVDMS",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
     {
     "key": "VSKY-2026-SNS01",
     "expiry": "2026-12-31",
