@@ -150,6 +150,11 @@
     "machine": null
   },
     {
+    "key": "VSKY-2026-CVDSE",
+    "expiry": "2026-12-31",
+    "machine": null
+  },
+    {
     "key": "VSKY-2026-SNS01",
     "expiry": "2026-12-31",
     "machine": null
